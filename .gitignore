@@ -1,0 +1,17 @@
+solver/*.pyc
+solver/results
+solver/exdata
+solver/run.sh
+solver/a.out
+solver/*.gv
+solver/*.png
+solver/__pycache__
+solver/gv.hpp
+coco-k8s/
+coco-k8s/scripts/ppdata
+coco-k8s/scripts/exdata
+coco-k8s/scripts/result
+coco-k8s/scripts/X
+coco-k8s/scripts/nohup.out
+exdata/
+a.out
